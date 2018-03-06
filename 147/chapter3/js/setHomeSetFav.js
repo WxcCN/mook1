@@ -1,4 +1,4 @@
-//¼ÓÈëÊÕ²Ø
+//ï¿½ï¿½ï¿½ï¿½ï¿½Õ²ï¿½
 
 function AddFavorite(sURL, sTitle)
 {
@@ -22,7 +22,7 @@ function AddFavorite(sURL, sTitle)
         catch (e)
         {
             
-            alert("¼ÓÈëÊÕ²ØÊ§°Ü£¬ÇëÊ¹ÓÃCtrl+D½øÐÐÌí¼Ó,»òÊÖ¶¯ÔÚä¯ÀÀÆ÷Àï½øÐÐÉèÖÃ.");
+            alert("ï¿½ï¿½ï¿½ï¿½ï¿½Õ²ï¿½Ê§ï¿½Ü£ï¿½ï¿½ï¿½Ê¹ï¿½ï¿½Ctrl+Dï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½,ï¿½ï¿½ï¿½Ö¶ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½.");
             
         }
         
@@ -30,7 +30,7 @@ function AddFavorite(sURL, sTitle)
     
 }
 
-//ÉèÎªÊ×Ò³
+//ï¿½ï¿½Îªï¿½ï¿½Ò³
 
 function SetHome(url)
 {
@@ -46,7 +46,7 @@ function SetHome(url)
     else
     {
         
-        alert("ÄúºÃ,ÄúµÄä¯ÀÀÆ÷²»Ö§³Ö×Ô¶¯ÉèÖÃÒ³ÃæÎªÊ×Ò³¹¦ÄÜ,ÇëÄúÊÖ¶¯ÔÚä¯ÀÀÆ÷ÀïÉèÖÃ¸ÃÒ³ÃæÎªÊ×Ò³!");
+        alert("å‘µå‘µå‘µå‘µå‘µå‘µ");
         
     }
     

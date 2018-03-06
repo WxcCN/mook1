@@ -2,50 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="328d12a7-5bec-47ea-a11e-e40b2789b98a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/images/QQ截图20140531173247.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/images/ad.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/images/ad2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/images/ad3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/images/ad4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/images/app.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/images/arrow.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/images/content_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/images/css.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/images/imooc.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/images/li_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/images/li_bg2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/images/line.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/images/list.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/images/logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/images/more.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/images/nav_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/images/nav_left.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/images/nav_right.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/images/news.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/images/news1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/images/news2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/images/product_type_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/images/qrcode.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/images/search.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/images/service.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/images/tel.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/images/titile_bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/images/top_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/images/type_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/images/weixin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/mook.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter2/box.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter2/boxDemo.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/js/jquery-1.4.4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/js/mf-pattern/mF_fancy.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/js/mf-pattern/mF_fancy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/js/myfocus-2.0.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/147/chapter3/js/setHomeSetFav.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/147/chapter3/js/setHomeSetFav.js" afterPath="$PROJECT_DIR$/147/chapter3/js/setHomeSetFav.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -69,21 +27,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="19">
-              <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+              <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="box.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/147/chapter2/box.css">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/147/chapter3/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state relative-caret-position="474">
+              <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/147/chapter3/html/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="setHomeSetFav.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/147/chapter3/js/setHomeSetFav.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="470">
+              <caret line="48" column="21" lean-forward="false" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -94,8 +72,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -108,6 +86,9 @@
         <option value="$PROJECT_DIR$/147/chapter2/boxDemo.html" />
         <option value="$PROJECT_DIR$/147/chapter2/box.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/147/chapter3/js/setHomeSetFav.js" />
+        <option value="$PROJECT_DIR$/147/chapter3/css/main.css" />
+        <option value="$PROJECT_DIR$/147/chapter3/html/index.html" />
       </list>
     </option>
   </component>
@@ -148,6 +129,31 @@
             <path>
               <item name="mook" type="b2602c69:ProjectViewProjectNode" />
               <item name="mook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mook" type="462c0819:PsiDirectoryNode" />
+              <item name="147" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mook" type="462c0819:PsiDirectoryNode" />
+              <item name="147" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mook" type="462c0819:PsiDirectoryNode" />
+              <item name="147" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mook" type="462c0819:PsiDirectoryNode" />
+              <item name="147" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter3" type="462c0819:PsiDirectoryNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -193,19 +199,19 @@
       <updated>1520178167562</updated>
       <workItem from="1520178168904" duration="905000" />
       <workItem from="1520179084428" duration="1417000" />
-      <workItem from="1520343092972" duration="1688000" />
+      <workItem from="1520343092972" duration="6762000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4010000" />
+    <option name="totallyTimeSpent" value="9084000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21354167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294979" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -266,10 +272,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/147/chapter2/box.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state relative-caret-position="190">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/147/chapter3/images/nav_left.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/147/chapter3/images/search.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/147/chapter2/boxDemo.html">
@@ -283,7 +299,31 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
-          <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <caret line="1" column="5" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/147/chapter3/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/147/chapter3/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/147/chapter3/js/setHomeSetFav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="48" column="21" lean-forward="false" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
           <folding />
         </state>
       </provider>
