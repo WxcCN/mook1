@@ -32,4 +32,15 @@
 *箭头函数
 
 ###day4
-####NodeJs：
+####NodeJs
+*API:http 源码、事件机制
+*性能测试 nodedemo  8C12G KVM ：tps:5000-9000 波动 springboot 2000 -》标准配置下的 springBoot 12k ttl 30ms ，node 9k 38ms  从稳定性、性能上 springboot更优。
+*简单http爬虫：cheerio 对html解析提供api，类似于jqury dom
+*事件模块EventEmiiter
+
+####Promise
+*对象状态：pending fulfilled rejected
+*net 模块
+
+
+###day5
